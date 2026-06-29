@@ -1,0 +1,60 @@
+{
+  "title": "知识管理与 Obsidian 工作流",
+  "slug": "knowledge-management",
+  "category": "知识管理",
+  "audience": "写论文、记笔记、做项目复盘的人",
+  "hero_url": "https://obsidian.md/",
+  "summary": "整理 Markdown 笔记、双链、文献管理、稍后读、白板、图表和自动化工具。",
+  "why_hot": "Obsidian/Notion/Logseq 用户都有强烈迁移、插件、模板需求，中文资料天然有流量。",
+  "entries": [
+    [
+      "Obsidian",
+      "https://obsidian.md/",
+      "本地 Markdown 知识库。"
+    ],
+    [
+      "Logseq",
+      "https://logseq.com/",
+      "开源大纲式知识管理。"
+    ],
+    [
+      "Notion",
+      "https://www.notion.so/",
+      "在线协作文档和数据库。"
+    ],
+    [
+      "Anytype",
+      "https://anytype.io/",
+      "本地优先对象式知识管理。"
+    ],
+    [
+      "Readwise Reader",
+      "https://readwise.io/read",
+      "稍后读和高亮管理。"
+    ],
+    [
+      "Zotero",
+      "https://www.zotero.org/",
+      "文献管理。"
+    ],
+    [
+      "Mermaid",
+      "https://mermaid.js.org/",
+      "文本生成流程图。"
+    ],
+    [
+      "Excalidraw",
+      "https://excalidraw.com/",
+      "手绘风白板。"
+    ]
+  ],
+  "quick_start": [
+    "先确定信息入口：网页、论文、日记、项目。",
+    "使用统一目录和模板，不要一开始沉迷插件。",
+    "每周做一次整理和归档。"
+  ],
+  "pitfalls": [
+    "知识库最大敌人是过度设计。",
+    "云同步前要想清楚隐私和备份。"
+  ]
+}
