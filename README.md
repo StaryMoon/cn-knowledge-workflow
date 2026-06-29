@@ -1,20 +1,22 @@
 # 中文知识管理与 Obsidian 工作流
 
+> Obsidian、Logseq、Notion、Zotero、Readwise、Mermaid、Excalidraw 等知识管理工具整理。
+
 ![preview](assets/preview.png)
 
-知识管理最容易变成装修软件。目录、标签、双链、模板、插件都很迷人，但最后能留下来的还是每天愿意写进去的那套流程。
+## Overview
 
-别先设计第二大脑，先设计入口：网页怎么进来，论文怎么进来，项目记录怎么进来，每周怎么清一次。
+整理 Markdown 笔记、双链、文献管理、稍后读、白板、图表和自动化工具。
 
-## 先看这几个
+本仓库只保留与主题直接相关、入口稳定、说明清晰的资源。优先收录官方文档、主流开源仓库、长期可访问的产品页面和常用工具链。
+
+## Key Resources
 
 Obsidian / Logseq / Notion / Anytype
 
-先把 Obsidian/Zotero/Readwise 或同类组合跑通，再考虑插件美化。
+## Resources
 
-## 入口
-
-| 名称 | 我为什么留它 |
+| Resource | Use case |
 | --- | --- |
 | [Obsidian](https://obsidian.md/) | 本地 Markdown 知识库。 |
 | [Logseq](https://logseq.com/) | 开源大纲式知识管理。 |
@@ -25,25 +27,29 @@ Obsidian / Logseq / Notion / Anytype
 | [Mermaid](https://mermaid.js.org/) | 文本生成流程图。 |
 | [Excalidraw](https://excalidraw.com/) | 手绘风白板。 |
 
-## 我的使用顺序
+## Recommended Path
 
-- 先确定信息入口：网页、论文、日记、项目。
-- 使用统一目录和模板，不要一开始沉迷插件。
-- 每周做一次整理和归档。
+1. 先确定信息入口：网页、论文、日记、项目。
+2. 使用统一目录和模板，插件配置保持克制。
+3. 每周做一次整理和归档。
 
-## 别踩坑
+## Notes
 
 - 知识库最大敌人是过度设计。
 - 云同步前要想清楚隐私和备份。
 
-## 截图来源
+## Screenshot
 
-这张图来自公开页面：[https://obsidian.md/](https://obsidian.md/)。如果页面改版，截图可能会和当前官网略有出入。
+Source: [https://obsidian.md/](https://obsidian.md/)
 
-## 维护方式
+## Data
 
-链接数据放在 [`data/links.json`](data/links.json)。我倾向于少而准：入口失效就换，说明过时就改，不把这里做成什么都往里塞的大杂烩。
+Structured resource data is available in [`data/links.json`](data/links.json).
+
+## Contributing
+
+PRs are welcome for official links, documentation updates, screenshot refreshes, and concise use-case descriptions. Please avoid mirrors, cracked software, referral links, and unverified downloads.
 
 ## License
 
-MIT. 第三方商标、页面截图和网站内容归原权利方所有；本仓库只做中文导航和使用笔记。
+MIT. Third-party trademarks, screenshots, and website content belong to their respective owners.
