@@ -46,6 +46,26 @@
       "Excalidraw",
       "https://excalidraw.com/",
       "手绘风白板。"
+    ],
+    [
+      "AFFiNE",
+      "https://affine.pro/",
+      "本地优先 workspace 和白板文档。"
+    ],
+    [
+      "Heptabase",
+      "https://heptabase.com/",
+      "卡片和白板式知识管理。"
+    ],
+    [
+      "Tana",
+      "https://tana.inc/",
+      "结构化大纲和知识对象。"
+    ],
+    [
+      "Zotero Better BibTeX",
+      "https://retorque.re/zotero-better-bibtex/",
+      "Zotero 与 LaTeX/BibTeX 工作流增强。"
     ]
   ],
   "quick_start": [
